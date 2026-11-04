@@ -8,7 +8,6 @@ Learn, Grow, Shine! – An educational Flutter app for Grade 9-12 students.
 - Built-in calculator and notepad
 - Recently viewed section
 - Contact, About and Privacy Policy pages
-
 ## Built with
 Flutter, Dart, Supabase
 
@@ -21,8 +20,13 @@ Flutter, Dart, Supabase
 ## Developer
 Aschalew Koyachew
 Information Systems student, Bahir Dar Institute of Technology
+
 ##Screenshots
 ![Home](home.jpg)
+##Home Screen
 ![Learn](Learn.jpg)
+##Learn Screen
 ![Books](books.jpg)
+##Books viewer screen
 ![Sidebar](sidebar.jpg)
+##Sidebar Screen

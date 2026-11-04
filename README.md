@@ -23,8 +23,8 @@ Information Systems student, Bahir Dar Institute of Technology
 ##Screenshots
 ![Home](home.jpg)Home Screen
 ![Learn](Learn.jpg)
-##Learn Screen
+Learn Screen
 ![Books](books.jpg)
-##Books viewer screen
+Books viewer screen
 ![Sidebar](sidebar.jpg)
-##Sidebar Screen
+Sidebar Screen

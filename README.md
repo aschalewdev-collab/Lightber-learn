@@ -21,3 +21,8 @@ Flutter, Dart, Supabase
 ## Developer
 Aschalew Koyachew
 Information Systems student, Bahir Dar Institute of Technology
+##Screenshots
+![Home](home.jpg)
+![Learn](Learn.jpg)
+![Books](books.jpg)
+![Sidebar](sidebar.jpg)
